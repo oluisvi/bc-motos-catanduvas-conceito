@@ -4,7 +4,7 @@ Estudo demonstrativo para apresentar um caminho complementar aos canais que a BC
 
 ## Links
 - Conceito publicado: https://oluisvi.github.io/bc-motos-catanduvas-conceito/
-- Prancha interna (screenshots reais dos três designs): será adicionada após a captura final.
+- Prancha interna (screenshots reais dos três designs): https://oluisvi.github.io/bc-motos-catanduvas-conceito/arte/bc-motos-prancha-designs.png
 - Instagram: https://www.instagram.com/bc.motoseletricas/
 - Linktree: https://linktr.ee/bcmotoseletricas
 
